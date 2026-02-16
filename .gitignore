@@ -1,0 +1,7 @@
+.env
+//dosyaları gizlemek için kullanıılır
+projeler/ödev
+//projeler klosörünün altında klasörler gösterilmez.
+// görevlerimiz gitignovlerımız olcak milestone dosyalarımız olacak
+site konusu readme dosyası olacak ilk sayfamız ve tasarım olacak
+cloud
